@@ -1,6 +1,7 @@
 ; General Post Processor
 ; Machine           : Pico CNC
 ; Type              : 3-axis Vertical
+; author of change  : Artur P. (djronin, contact for me artur.p386@gmail.com)
 
 
 @init_post
